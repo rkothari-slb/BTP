@@ -1,5 +1,5 @@
 {
-  "xsappname": "myhanaapp",
+  "xsappname": "cicdproject-xsapp",
   "tenant-mode": "dedicated",
   "scopes": [
       {

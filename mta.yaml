@@ -60,7 +60,7 @@ resources:
       service-plan: application
       path: ./xs-security.json
       config:
-        xsappname: cicdproject-${org}-${space}
+        xsappname: cicdproject-xsapp
         tenant-mode: dedicated
   - name: cicdproject-db
     type: com.sap.xs.hdi-container
